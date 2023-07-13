@@ -38,8 +38,8 @@
   <p>
     Hay dos formas para poder inicializar el proyecto:<br> 
    Una es descargando todo el repo del proyecto y ejecutandolo en su IDE de preferencia<br>
-   Y la otra es solo descargando la carpera Conversor-Ejecutable y inicializar el programa
-   conversor-ejecutable.jar
+   Y la otra es solo descargando la carpera ejecutable-Conversor y inicializar el programa
+   conversor-Ejecutable.jar
   </p><br>
   <table align="center">
    <tr>
