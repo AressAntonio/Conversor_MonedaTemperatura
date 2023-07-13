@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://github.com/AressAntonio/Conversor_MonedaTemperatura/assets/99376135/bec7089d-21d7-43cb-be6b-fc191b7157b0" width=50, height=50 >Conversor de Moneda & Temperatura.</h1>
- <h2 align="rigth">Sobre el Proyecto <img src="https://github.com/AressAntonio/Conversor_MonedaTemperatura/assets/99376135/d3e9d2bf-f9b4-4ee7-96b2-f80b17d5695f" wigth=20, height=20></h2>
+<h1 align="center"><img src="https://github.com/AressAntonio/Conversor_MonedaTemperatura/assets/99376135/ca2bd346-7a14-444b-ac74-a73e0cc57632" width=50, height=50 >Conversor de Moneda & Temperatura.</h1>
+ <h2 align="rigth">Sobre el Proyecto <img src="https://github.com/AressAntonio/Conversor_MonedaTemperatura/assets/99376135/14a6e037-b567-495d-b7f5-100a2f58c158" wigth=20, height=20></h2>
  <p>
   El Conversor es un aplicativo desarrollado con el proposito de otorgar al usuario herramientas utiles,<br>
   dichas herramientas son las siguientes:
@@ -27,7 +27,7 @@
       <li>Convertir de Kelvin a Fahrenheit</li>
      </ol>
   </ul><br>
-  <h3>Tecnologia utilizada para su Realizacion <img src="https://github.com/AressAntonio/Conversor_MonedaTemperatura/assets/99376135/4c1cb78a-ad6f-40c1-b34b-3de8bb8122e8" width=20, height=20></h3>
+  <h3>Tecnologia utilizada para su Realizacion <img src="https://github.com/AressAntonio/Conversor_MonedaTemperatura/assets/99376135/6bfe3836-1c02-4263-a29a-5a3fdbb0eb62" width=20, height=20></h3>
   <ul>
    <li>IDE Eclipse for Java</li>
    <li>Java OOP(Programacion Orientada a Objetos)</li>
@@ -46,13 +46,18 @@
     <th>Vista previa del Proyecto</th>
    </tr>
    <tr>
-   <td><img src="https://github.com/AressAntonio/Conversor_MonedaTemperatura/assets/99376135/c1f9260a-3817-49f1-9a48-29f0cb3897c0" width=550, height=350></td> 
+   <td><img src="https://github.com/AressAntonio/Conversor_MonedaTemperatura/assets/99376135/317a2b4b-0b2c-42bd-be37-e3c72a37abd5" width=550, height=350></td> 
    </tr> 
   </table>
  </p>
 
  
  
+
+
+
+
+
 
 
 
